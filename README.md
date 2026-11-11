@@ -1,16 +1,32 @@
-## Hi there 👋
 
-<!--
-**jananisgrp/jananisgrp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi there, I'm Janani!
 
-Here are some ideas to get you started:
+### 💻🎓 IT Management Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Étudiante en Bachelor Informatique.
+
+💡 Passionnée par le développement web, les systèmes d'information et les nouvelles technologies.
+
+### 🛠️ Tech Stack
+
+**Languages:** Java, 
+
+**Databases:** PostgreSQL, MySQL
+
+**Tools:** Git, GitHub, Docker, Postman, Ollama
+
+### 🚀 My Projects
+
+- **SwissRegie** — Application web
+
+### 🌱 Currently Learning
+
+- Artificial Intelligence & Local LLMs
+- REST APIs & Spring AI
+- SAP ABAP
+- Software Architecture
+
+### 📫 Connect With Me
+
+- 📍 Geneva, Switzerland
+- 💼 LinkedIn: [Ajouter ton lien]
