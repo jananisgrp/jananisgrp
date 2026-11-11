@@ -28,5 +28,3 @@
 
 ### 📫 Connect With Me
 
-- 📍 Geneva, Switzerland
-- 💼 LinkedIn: [Ajouter ton lien]
