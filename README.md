@@ -54,6 +54,17 @@
 
 ---
 
+## 🚀 Mes projets
+
+| Projet | Description | Technologies | Lien GitHub |
+|---|---|---|---|
+| Assistant de voyage intelligent | Assistant IA proposant des recommandations personnalisées. | Spring Boot, Spring AI, Mistral | [Voir le projet](URL) |
+| LLM local - Ollama | Comparaison de modèles IA locaux et utilisation via une API REST. | Ollama, Qwen, Postman | [Voir le projet](URL) |
+| Quarkus Person | Comparaison des performances JVM et Native. | Java, Quarkus, Docker | [Voir le projet](URL) |
+| SwissRegie | Application de gestion immobilière. | À compléter | [Voir le projet](URL) |
+| Éducation Solidaire | Plateforme numérique éducative. | À compléter | [Voir le projet](URL) |
+| Tours de Hanoï | Résolution récursive en assembleur. | EMU8086 | [Voir le projet](URL) |
+
 ## 📊 GitHub Statistics
 
 <div align="center">
